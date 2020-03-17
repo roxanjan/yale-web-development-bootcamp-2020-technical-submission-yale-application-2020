@@ -7,7 +7,7 @@ age = 19
 favorite_food = "cheese"
 height_in_inches = 65
 above =  height_in_inches > 64
-height_message = above
+height_message = above ? 
 ## Do not modify below this line!
 
 output(name, age, favorite_food, height_message)
